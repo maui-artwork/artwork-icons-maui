@@ -11,12 +11,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="48"
-   height="48"
-   viewBox="0 0 38.4 38.4"
+   width="103"
+   height="100"
+   viewBox="0 0 82.4 80"
    id="svg2"
-   style="fill-rule:evenodd;stroke-width:0.50099999;stroke-linejoin:bevel;overflow:visible"
-   inkscape:version="0.48.3.1 r9886"
+   style="overflow:visible;fill-rule:evenodd;stroke-width:0.50099999;stroke-linejoin:bevel"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="homerun.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -28,14 +28,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="896"
      id="namedview202"
      showgrid="false"
-     inkscape:zoom="17.041667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="-2"
-     inkscape:window-y="-1"
+     inkscape:zoom="6.6"
+     inkscape:cx="51.5"
+     inkscape:cy="50"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <metadata
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,7 +157,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g7">
         <path
-           d="M -9,54 -9,-54 117,0 z"
+           d="M -9,54 -9,-54 117,0 Z"
            id="path9"
            inkscape:connector-curvature="0" />
       </g>
@@ -174,7 +174,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g12">
         <path
-           d="M -27,54 -9,0 -27,-54 135,0 z"
+           d="M -27,54 -9,0 -27,-54 135,0 Z"
            id="path14"
            inkscape:connector-curvature="0" />
       </g>
@@ -191,7 +191,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g17">
         <path
-           d="m -9,0 0,-45 c 0,-6.708 11.808,-11.58 18,-9 l 108,45 c 3.916,1.631 9,4.758 9,9 0,4.242 -5.084,7.369 -9,9 L 9,54 C 2.808,56.58 -9,51.708 -9,45 z"
+           d="m -9,0 0,-45 c 0,-6.708 11.808,-11.58 18,-9 l 108,45 c 3.916,1.631 9,4.758 9,9 0,4.242 -5.084,7.369 -9,9 L 9,54 C 2.808,56.58 -9,51.708 -9,45 Z"
            id="path19"
            inkscape:connector-curvature="0" />
       </g>
@@ -208,7 +208,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g22">
         <path
-           d="M -54,0 C -54,29.807 -29.807,54 0,54 29.807,54 54,29.807 54,0 54,-29.807 29.807,-54 0,-54 -29.807,-54 -54,-29.807 -54,0 z"
+           d="M -54,0 C -54,29.807 -29.807,54 0,54 29.807,54 54,29.807 54,0 54,-29.807 29.807,-54 0,-54 -29.807,-54 -54,-29.807 -54,0 Z"
            id="path24"
            inkscape:connector-curvature="0" />
       </g>
@@ -225,7 +225,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g27">
         <path
-           d="M -63,0 0,63 63,0 0,-63 z"
+           d="M -63,0 0,63 63,0 0,-63 Z"
            id="path29"
            inkscape:connector-curvature="0" />
       </g>
@@ -242,7 +242,7 @@
          transform="scale(0.00925926,0.00925926)"
          id="g32">
         <path
-           d="m 18,-54 90,0 L 63,0 108,54 18,54 -36,0 z"
+           d="m 18,-54 90,0 L 63,0 108,54 18,54 -36,0 Z"
            id="path34"
            inkscape:connector-curvature="0" />
       </g>
@@ -276,14 +276,14 @@
          transform="scale(0.00925926,0.00925926)"
          id="g42">
         <path
-           d="M 0,45 -45,0 0,-45 45,0 z M 0,63 -63,0 0,-63 63,0 z"
+           d="M 0,45 -45,0 0,-45 45,0 Z M 0,63 -63,0 0,-63 63,0 Z"
            id="path44"
            inkscape:connector-curvature="0" />
       </g>
     </marker>
     <filter
-       color-interpolation-filters="sRGB"
-       id="StainedFilter">
+       id="StainedFilter"
+       style="color-interpolation-filters:sRGB">
       <feBlend
          in2="BackgroundImage"
          mode="multiply"
@@ -298,8 +298,8 @@
          id="feComposite49" />
     </filter>
     <filter
-       color-interpolation-filters="sRGB"
-       id="BleachFilter">
+       id="BleachFilter"
+       style="color-interpolation-filters:sRGB">
       <feBlend
          in2="BackgroundImage"
          mode="screen"
@@ -314,8 +314,8 @@
          id="feComposite54" />
     </filter>
     <filter
-       color-interpolation-filters="sRGB"
-       id="InvertTransparencyBitmapFilter">
+       id="InvertTransparencyBitmapFilter"
+       style="color-interpolation-filters:sRGB">
       <feComponentTransfer
          id="feComponentTransfer57">
         <feFuncR
@@ -1058,15 +1058,10 @@
        gradientTransform="matrix(0.3,0.184,-0.01871518,0.23236535,7.3097578,-1.1119561)" />
   </defs>
   <g
-     transform="matrix(0.05491757,0,0,0.05491757,-244.00884,241.1478)"
+     transform="matrix(0.05491757,0,0,0.05491757,-244.00884,282.7478)"
      id="Background">
     <ellipse
-       d="m 667.84619,326.46988 c 0,180.30433 -149.50246,326.46988 -333.92309,326.46988 C 149.50246,652.93976 0,506.77421 0,326.46988 0,146.16554 149.50246,0 333.9231,0 518.34373,0 667.84619,146.16554 667.84619,326.46988 z"
        style="fill:#ffffff;fill-rule:evenodd"
-       sodipodi:ry="326.46988"
-       sodipodi:rx="333.9231"
-       sodipodi:cy="326.46988"
-       sodipodi:cx="333.9231"
        id="shape0"
        transform="translate(29.2323,179.594)"
        rx="333.9231"
@@ -1075,7 +1070,7 @@
        cy="326.46988" />
   </g>
   <g
-     transform="matrix(0.05491757,0,0,0.05491757,-0.74362693,-8.5415281)"
+     transform="matrix(0.11699829,0,0,0.11699829,-1.2885924,-19.101511)"
      id="layer0">
     <g
        style="fill:none"
